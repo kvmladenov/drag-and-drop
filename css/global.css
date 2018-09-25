@@ -1,0 +1,7 @@
+/*
+	Home page
+*/
+
+body[page="index"] header ul{
+	list-style: none;
+}
